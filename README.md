@@ -1,3 +1,5 @@
-Author :- Sanu Kumar
+# Learning Git and Github
+This is my first Git Repo.
 <br>
-Learning Development.
+Author: Sanu Kumar
+
